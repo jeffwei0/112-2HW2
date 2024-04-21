@@ -25,8 +25,13 @@
 ![alt text](png/image-6.png)
 物件：確認掛號
 1-b
+
+
 answer1.drawio截圖
 ![alt text](image.png)
+
+answer2.drawio截圖
+![alt text](image-1.png)
 
 ## 個人認為完成作業須具備觀念
 
